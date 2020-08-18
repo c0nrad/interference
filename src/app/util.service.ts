@@ -8,6 +8,7 @@ export class UtilService {
 
   constructor() { }
 
+  //https://scienceprimer.com/javascript-code-convert-light-wavelength-color
   wavelengthToColor(wavelength: number) {
     var r,
       g,
